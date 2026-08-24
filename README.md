@@ -41,8 +41,10 @@ Bebo Rajbahak, Aasha, Prashna, Reshma — CSE 220, Summer 2026, IAU
 ## Project documentation
 - `requirements/` — functional, non-functional, stakeholders, techniques
 - `design/` — UML diagrams (use case, class, sequence, activity)
-- `testing/` — test matrix and test cases (18 total, 72% pass rate)
+- `testing/` — test matrix and test case (18 total, 72% pass rate)
 - `project-management/` — backlog, Sprint 1, Sprint 2, Gantt data, team roles
 
 ## Report
 Full project report: `docs/Final-Project-Report.docx`
+## Testing
+Test cases are included in the testing folder.

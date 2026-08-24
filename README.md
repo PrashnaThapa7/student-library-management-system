@@ -36,13 +36,18 @@ As documented in the project report (Chapter 6 & 9):
 - Report generation not implemented (ST-04)
 
 ## Team
-Bebo Rajbahak, Aasha, Prashna, Reshma — CSE 220, Summer 2026, IAU
+Bebo Rajbahak, Aasha, Prashna Thapa, Reshma — CSE 220, Summer 2026, IAU
 
-## Project documentation
-- `requirements/` — functional, non-functional, stakeholders, techniques
-- `design/` — UML diagrams (use case, class, sequence, activity)
-- `testing/` — test matrix and test case (18 total, 72% pass rate)
-- `project-management/` — backlog, Sprint 1, Sprint 2, Gantt data, team roles
+## Project Structure
+
+The project is organized into different folders for the system design, requirements, project management, testing, and source code.
+
+- design/ – Contains UML diagrams and system design documents.
+- requirements/ – Contains project requirements and stakeholder analysis.
+- project-management/ – Contains sprint, backlog, Gantt chart, and team role files.
+- testing/ – Contains test cases and testing documents.
+- src/ – Contains the main application source code.
+- docs/ – Contains project documentation and reports.
 
 ## Report
 Full project report: `docs/Final-Project-Report.docx`
